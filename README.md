@@ -30,8 +30,8 @@ Este sistema realiza las siguientes funciones:
 - **Java 17**
 - **Spring Boot** + **Spring Data JPA**
 - **Hibernate**
-- **H2 / PostgreSQL / MySQL** (según configuración)
-- **Gson** o **Jackson** para parsear JSON
+- **PostgreSQLMySQL**
+- **Jackson** para parsear JSON
 - **Java Streams API**
 - **HttpClient** (`java.net.http.HttpClient`)
 - **Maven**
